@@ -147,7 +147,7 @@ function ContactUs() {
           <h3>Our Contact Info</h3>
           <p>📍 Address: Salt Lake, Sector V, Kolkata, India</p>
           <p>📞 Phone: +91 98765 43210</p>
-          <p>✉️ Email: support@jobportal.com</p>
+          <p>✉️ Email: jobnest@gmail.com</p>
         </div>
       </div>
     </div>
